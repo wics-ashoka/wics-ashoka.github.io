@@ -18,7 +18,7 @@ authors:
     name: Deepraj Pandey
     display_name: Deepraj
     gravatar: 4f0ba5cd9ec13e0c103a265fc4bc231e
-    email: deepraj.pandey_ug20@ashoka.edu.in
+    email: deepraj.pandey_asp21@ashoka.edu.in
     web: https://deeprajpandey.github.io
     twitter: https://twitter.com/deeprajpandey
     description: "CS Undergrad, TV Connosieur"
@@ -26,10 +26,18 @@ authors:
     name: Rathi Kashi
     display_name: Rathi    
     avatar: 'assets/images/avatar.png'
-    email: rathi.kashi_ug20@ashoka.edu.in
+    email: rathi.kashi_asp21@ashoka.edu.in
     web: 
     twitter: https://github.com/rathikashi
     description: "Fourth year CS major."
+  prashanthi:
+    name: Prashanthi Ramachandran
+    display_name: Prashanthi R
+    avatar: 'assets/images/prashanthi.png'
+    email: prashanthi.r_asp21@ashoka.edu.in
+    web: https://prashanthi-r.github.io
+    twitter: https://github.com/prashanthi-r
+    description: "Fresh CS Grad from AshokaU."
 
 # Plugins
 plugins:
