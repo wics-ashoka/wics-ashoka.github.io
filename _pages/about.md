@@ -5,21 +5,40 @@ comments: false
 
 filename: "pages/about.md"
 ---
+<style>
+	ul.icons {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.icons li {
+				text-align: center;
+				display: inline-block;
+				padding: 0 1em 0 0;
+			}
+
+				ul.icons li:last-child {
+					padding-right: 0;
+				}
+</style>
+<footer id="footer">
+	<ul class="icons">
+		<li><a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin-square" style="font-size:30px"><span class="label"></span></a></li>
+		<li><a href="https://github.com/wics-ashoka" class="fa fa-github" style="font-size:30px"><span class="label"></span></a></li>
+		<li><a href="https://www.facebook.com/ashokawics" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="https://www.instagram.com/wics.ashoka/" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="mailto: wics@ashoka.edu.in" class="fa fa-envelope" style="font-size:30px"><span class="label"></span></a></li>
+	</ul>
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
 <h3>Mission Statement</h3>
-<p>Our mission at WICS is to build, support, encourage and strengthen the community of women in CS. Our major goals:
-<ul> 
-<li>To ensure that women entering the University see Computer Science as a viable Alternative.</li>
-<li>To encourage and support academic and professional development of women already pursuing CS.</li>
-<li>To guide and aspire high school girls for Computer Science.</li>
-<li>To connect and collaborate with a larger community of women in CS and engage in activities that go beyond the University.</li>
-</ul>
+Founded by an Ashoka University alumnus, Simran Bhuria, and launched on campus by Mrs. Rashmi Mohan, an ACM eminent speaker on 29th September 2016, Women in Computing Society is a small bunch of passionate students working towards making the CS culture at Ashoka a safer, healthier, and inclusive one. We also focus on supporting everyone in CS, especially womxn, academically and personally. We constantly work towards building a larger community of womxn in CS that is collaborative and supportive in nature. As an academic society, we organise talks, hackathons, cryptic hunts, workshops, problem-solving centered stalls and events, and reading groups. As a part of our larger vision of an inclusive community, we organise events focused on activism -- blog posts, discussions on gender in academic spaces and sexism, sessions on building confidence and tackling other challenges for womxn in STEM and movie screenings! 
 </p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/about-1.png" alt="man wearing Sony Playstation VR" />Photo by Team Ricochet. </p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/about-1.png" alt="man wearing Sony Playstation VR" />Photo by Team Ricochet, Ashoka University. </p>
 
 <h4>Questions or bug reports?</h4>
 
