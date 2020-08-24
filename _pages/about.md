@@ -5,7 +5,7 @@ comments: false
 
 filename: "pages/about.md"
 ---
-<style>
+<style type="text/css">
 	ul.icons {
 			cursor: default;
 			list-style: none;
