@@ -6,6 +6,17 @@ comments: false
 filename: "pages/about.md"
 ---
 <style type="text/css">
+@charset "UTF-8";
+@import url(font-awesome.min.css);
+	ul {
+		list-style: disc;
+		margin: 0 0 2em 0;
+		padding-left: 1em;
+	}
+
+		ul li {
+			padding-left: 0.5em;
+		}
 	ul.icons {
 			cursor: default;
 			list-style: none;
@@ -22,7 +33,6 @@ filename: "pages/about.md"
 					padding-right: 0;
 				}
 </style>
-<footer id="footer">
 	<ul class="icons">
 		<li><a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin-square" style="font-size:30px"><span class="label"></span></a></li>
 		<li><a href="https://github.com/wics-ashoka" class="fa fa-github" style="font-size:30px"><span class="label"></span></a></li>
