@@ -4,7 +4,7 @@ name: "Women in Computing Society"
 title: "WiCS"
 description: "The official blog of the Women in Computing Society at Ashoka University."
 logo: 'assets/images/wics-logo.jpg'
-favicon: 'assets/images/wics-logo.jpg'
+favicon: 'assets/images/favicon1.jpeg'
 baseurl: ''
 google_analytics: 'UA-158034654-1'
 disqus: 'wics-blog'
