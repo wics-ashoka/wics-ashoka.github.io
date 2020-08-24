@@ -5,42 +5,6 @@ comments: false
 
 filename: "pages/about.md"
 ---
-<style type="text/css">
-@charset "UTF-8";
-@import url(font-awesome.min.css);
-	ul {
-		list-style: disc;
-		margin: 0 0 2em 0;
-		padding-left: 1em;
-	}
-
-		ul li {
-			padding-left: 0.5em;
-		}
-	ul.icons {
-			cursor: default;
-			list-style: none;
-			padding-left: 0;
-		}
-
-			ul.icons li {
-				text-align: center;
-				display: inline-block;
-				padding: 0 1em 0 0;
-			}
-
-				ul.icons li:last-child {
-					padding-right: 0;
-				}
-</style>
-	<ul class="icons">
-		<li><a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin-square" style="font-size:30px"><span class="label"></span></a></li>
-		<li><a href="https://github.com/wics-ashoka" class="fa fa-github" style="font-size:30px"><span class="label"></span></a></li>
-		<li><a href="https://www.facebook.com/ashokawics" class="icon style2 fa-facebook"><span class="label"></span></a></li>
-		<li><a href="https://www.instagram.com/wics.ashoka/" class="icon style2 fa-instagram"><span class="label"></span></a></li>
-		<li><a href="mailto: wics@ashoka.edu.in" class="fa fa-envelope" style="font-size:30px"><span class="label"></span></a></li>
-	</ul>
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
