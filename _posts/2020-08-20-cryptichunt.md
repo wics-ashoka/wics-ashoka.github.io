@@ -21,6 +21,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 	1. Each team must have a team name or username. 
 	1. The username should have only lowercase alphabets or numbers. No spaces or special characters will be allowed. For example, "covid19" is an acceptable username, while these are not acceptable: "Covid19", "Covid 19", "Covid-19". 
 	1. Each team can use only one Ashoka email ID (the one that you will mention on the form). If your team has two members, you cannot login with both your email IDs. Doing so can result in disqualification from the hunt. 
-1. The credits for making the cryptic hunt portal go to Onish Garg from the Batch of 2021.
 1. Lastly, remember to have fun!
+
+We want to acknowledge Onish Garg from the Batch of 2021 for creating the cryptic hunt portal, and thus making this possible.
 <table>
