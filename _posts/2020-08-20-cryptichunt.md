@@ -24,4 +24,13 @@ Hello! This post contains instructional pointers for people who wish to particip
 1. Lastly, remember to have fun!
 
 We want to acknowledge Onish Garg from the Batch of 2021 for creating the cryptic hunt portal, and thus making this possible.
+
+But what’s a cryptic hunt?
+* A cryptic hunt is an online quiz that is broken down into levels of increasing difficulty (if we’re kind). Each level has a picture or text clue that you have to solve! 
+* Right answers entered in the text box take you to the next level. 
+* You can attempt the question any number of times, but only the right answer will lead you to the next level. 
+* You can participate individually or in teams of two. However, you cannot register twice or switch between individual/team participation without informing us a priori.
+* Registration is open to everyone regardless of their major or gender. 
+* No technical background will be assumed. If you know how to Google to get information, you should be fine. 
+
 <table>
