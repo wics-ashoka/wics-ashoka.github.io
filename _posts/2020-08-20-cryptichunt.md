@@ -4,7 +4,7 @@ title:  "Instructions for WiCS' Cryptic Hunt 2020: Waterboarding Witless"
 author: prashanthi
 categories: [ Events ]
 tags: [ waterboardingwitless, cryptichunt, wicsevents, womenincomputing, womeninstem, ashokauniversity, wicsashoka ]
-image: assets/images/cryptichunt-final
+image: assets/images/cryptichunt-final.png
 description: "Instructions for Cryptic Hunt 2020"
 featured: true
 
