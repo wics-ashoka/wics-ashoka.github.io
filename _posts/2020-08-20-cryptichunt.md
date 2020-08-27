@@ -15,7 +15,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 * There will be 14 levels in all. 
 * You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 * Your answers should be in all lowercase alphabets or numbers (no spaces or special characters). Please keep this in mind - we don't want you to be at a disadvantage merely because of the format of your answer.
-* You can participate individually or in a team of two. 
+* You can participate individually or in teams of two. 
 * Please fill the form that has been sent to you with the information about you (and the other team member, if any) so that we know your team. In this form, you will have to tell us the Ashoka ID that you will be using for the team and the username for your team. 
 * Regarding the point above, please note that:
 	* Each team must have a team name or username. 
