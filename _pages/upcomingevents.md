@@ -43,7 +43,7 @@ filename: "pages/upcomingevents.md"
   	</tr>
   	<tr>
   		<td>
-  			Academic Talk with an eminent academician (to be released)
+  			Academic Talk by an eminent academic (to be announced soon)
   		</td>
   		<td>Third week of September, 2020</td>
   	</tr>
