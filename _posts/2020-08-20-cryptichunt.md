@@ -17,11 +17,10 @@ Hello! This post contains instructional pointers for people who wish to particip
 1. There will be 16 levels in all: 15 total levels + Level-0 (where you have to enter the answer to a clue mentioned in the first email you received to proceed to Level-1). 
 1. You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 1. Please fill in your queries/doubts regarding the portal/questions on the portal in [this form](https://forms.gle/uuGD3B8CqJeEadNy8). This form will be active only between Saturday, 12 PM and Sunday 11:59 PM. This has been created so that we can respond to your queries in a more efficient manner, since emails can get lost sometimes. We will try to respond to you as soon as possible. Having said that, please note that we will not entertain questions about questions from the cryptic hunt that are emailed to wics@ashoka.edu.in.
-1. Please note that we will be available for answering queries only between 10 AM and 11:59 PM on both the days.
-1. Please fill the form that will be sent to all registered participants with the information about you (and the other team member, if any) so that we know your team. In this form, you will have to tell us the Ashoka ID that you will be using for the team and the username for your team. 
-1. Regarding the point above, please note that:
-	1. Each team must have a team name or username. 
-	1. Each team can use only one Ashoka email ID (the one that you will mention on the form). If your team has two members, you cannot login with both your email IDs. Doing so can result in disqualification from the hunt. 
+1. We will be available for answering queries only between 10 AM and 11:59 PM on both the days.
+1. Please note:
+	1. Each team must have a team name or username. You will be prompted to enter this username when you login for the first time.
+	1. Each team can use only one Ashoka email ID. If your team has two members, you cannot login with both your email IDs. Doing so can result in disqualification from the hunt. 
 1. Lastly, remember to have fun!
 
 But what’s a cryptic hunt?
