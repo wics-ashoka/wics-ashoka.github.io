@@ -16,6 +16,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 1. You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 1. Your answers should be in all lowercase alphabets or numbers (no spaces or special characters). Please keep this in mind - we don't want you to be at a disadvantage merely because of the format of your answer.
 1. You can participate individually or in teams of two. 
+1. Please fill in your queries/doubts regarding the portal/questions on the portal in [this form](https://forms.gle/uuGD3B8CqJeEadNy8). This form has been created so that we can respond to your queries in a more efficient manner, since emails can get lost sometimes. We will try to respond to you as soon as possible. Having said that, please note that we will not entertain questions about questions from the cryptic hunt that are emailed to wics@ashoka.edu.in. This form will be active only between Saturday, 12 PM and Sunday 11:59 PM.
 1. Please fill the form that has been sent to you with the information about you (and the other team member, if any) so that we know your team. In this form, you will have to tell us the Ashoka ID that you will be using for the team and the username for your team. 
 1. Regarding the point above, please note that:
 	1. Each team must have a team name or username. 
