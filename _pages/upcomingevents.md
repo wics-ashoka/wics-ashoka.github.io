@@ -10,15 +10,16 @@ filename: "pages/upcomingevents.md"
 
 <h3>Upcoming Events and Timeline</h3>
 
-| Event | Tentative Dates|
-|------  | -------------|
+| Event | Tentative Dates |
+| ----------- | ----------- |
 Annual Cryptic Hunt: Waterboarded Witless | 29-30th August (Sat-Sun), 2020 |
 | WiCS x WireByte (something exciting!) | Extended O-Week (31st August -3rd Oct, 2020) |
 | Open Meeting with Ashokans | Second week of September, 2020 |
 | Academic Talk with an eminent academician(to be released) | Third week of September, 2020 |
 | Inductions! | Third week-fourth week of September, 2020 |
 
-<h2>More information to follow. Stay tuned!</h2>
+More information to follow. Stay tuned!
+<br>
 <h4>Questions or bug reports?</h4>
 
 <p>Head over to our <a href="https://github.com/wics-ashoka">Github repositories</a>!</p>
