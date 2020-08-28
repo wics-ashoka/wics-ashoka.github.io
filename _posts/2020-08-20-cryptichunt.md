@@ -12,6 +12,8 @@ filename: "posts/prashanthi-27jun-cryptichunt.md"
 ---
 Hello! This post contains instructional pointers for people who wish to participate in WiCS' Cryptic Hunt 2020: Waterboarded Witless. 
 
+
+1. **This hunt is only open to Ashoka University students. All the members in your team should be currently enrolled in Ashoka University as a student.**
 1. There will be 14 levels in all. 
 1. You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 1. Your answers should be in all lowercase alphabets or numbers (no spaces or special characters). Please keep this in mind - we don't want you to be at a disadvantage merely because of the format of your answer.
