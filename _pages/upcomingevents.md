@@ -10,18 +10,37 @@ filename: "pages/upcomingevents.md"
 
 <h3>Upcoming Events and Timeline</h3>
 
-
-| Event | Tentative Dates |
-| ----------- | ----------- |
-| Annual Cryptic Hunt: Waterboarded Witless | 29-30th August (Sat-Sun), 2020 |
-| WiCS x WireByte (something exciting!) | Extended O-Week (31st August -3rd Oct, 2020) |
-| Open Meeting with Ashokans | Second week of September, 2020 |
-| Academic Talk with an eminent academician(to be released) | Third week of September, 2020 |
-| Inductions! | Third week-fourth week of September, 2020 |
-
-
-More information to follow. Stay tuned!
+<table>
+	<tr>
+		<th>Event</th>
+		<th>Tentative Dates</th>	
+	</tr>
+	<tr>
+    	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
+    	<td>29-30th August (Sat-Sun), 2020</td>
+  	</tr>
+	<tr>
+    	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
+    	<td>29-30th August (Sat-Sun), 2020</td>
+  	</tr>
+  	<tr>
+  		<td>WiCS x WireByte (something exciting!)</td>
+  		<td>Extended O-Week (31st August -3rd Oct, 2020)</td>
+  	</tr>
+  	<tr>
+  		<td>Open Meeting with Ashokans</td>
+  		<td>Second week of September, 2020</td>
+  	</tr>
+  	<tr>
+  		<td>
+  			Academic Talk with an eminent academician (to be released)
+  		</td>
+  		<td>Third week of September, 2020</td>
+  	</tr>
+</table>
 <br>
+More information to follow. Stay tuned!
+<br><br>
 <h4>Questions or bug reports?</h4>
 
 <p>Head over to our <a href="https://github.com/wics-ashoka">Github repositories</a>!</p>
