@@ -14,7 +14,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 
 
 1. **This hunt is only open to Ashoka University students. All the members in your team should be currently enrolled in Ashoka University as a student.**
-1. There will be 14 levels in all. 
+1. There will be 16 levels in all: 15 total levels + Level-0 (where you have to enter the answer to a clue mentioned in the first email you received to proceed to Level-1). 
 1. You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 1. Your answers should be in all lowercase alphabets or numbers (no spaces or special characters). Please keep this in mind - we don't want you to be at a disadvantage merely because of the format of your answer. For example, "covid19" is an acceptable answer, while these are not: "Covid19", "Covid 19", "Covid-19". 
 1. You can participate individually or in teams of two. 
