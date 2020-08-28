@@ -8,6 +8,9 @@ filename: "pages/upcomingevents.md"
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <style type="text/css">
+	table{
+		text-align: center;
+	}
 	th {
   background-color: #cc0000;
   color: white;
@@ -26,10 +29,6 @@ filename: "pages/upcomingevents.md"
 		<th>Event</th>
 		<th>Tentative Dates</th>	
 	</tr>
-	<tr>
-    	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
-    	<td>29-30th August (Sat-Sun), 2020</td>
-  	</tr>
 	<tr>
     	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
     	<td>29-30th August (Sat-Sun), 2020</td>
