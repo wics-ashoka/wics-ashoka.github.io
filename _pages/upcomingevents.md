@@ -7,7 +7,18 @@ filename: "pages/upcomingevents.md"
 ---
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
+<style type="text/css">
+	th {
+  background-color: #cc0000;
+  color: white;
+	}
+	tr:nth-child(even) {background-color: #f2f2f2;}
+	tr:hover {background-color: #f5f5f5;}
+	th, td {
+  border-bottom: 1px solid #ddd;
+}
 
+</style>
 <h3>Upcoming Events and Timeline</h3>
 
 <table>
