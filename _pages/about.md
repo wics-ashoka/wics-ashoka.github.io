@@ -14,9 +14,9 @@ filename: "pages/about.md"
 	}
 </style>
 
-<a href="https://www.facebook.com/ashokawics" class="fa fa-facebook"></a>
-<a href="https://www.instagram.com/wics.ashoka/" class="fa fa-instagram"></a>
-<a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin"></a>
+<a href="https://www.facebook.com/ashokawics" class="fa fa-facebook">Facebook</a>
+<a href="https://www.instagram.com/wics.ashoka/" class="fa fa-instagram">Instagram</a>
+<a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin">LinkedIn</a>
 
 <h3>Mission Statement</h3>
 Founded by an Ashoka University alumnus, Simran Bhuria, and launched on campus by Mrs. Rashmi Mohan, an ACM eminent speaker on 29th September 2016, Women in Computing Society is a small bunch of passionate students working towards making the CS culture at Ashoka a safer, healthier, and inclusive one. We also focus on supporting everyone in CS, especially womxn, academically and personally. We constantly work towards building a larger community of womxn in CS that is collaborative and supportive in nature. As an academic society, we organise talks, hackathons, cryptic hunts, workshops, problem-solving centered stalls and events, and reading groups. As a part of our larger vision of an inclusive community, we organise events focused on activism -- blog posts, discussions on gender in academic spaces and sexism, sessions on building confidence and tackling other challenges for womxn in STEM and movie screenings! 
