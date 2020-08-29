@@ -7,9 +7,11 @@ filename: "pages/about.md"
 ---
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+	a{
+		text-align: center;
+	}
 </style>
 
 <a href="https://www.facebook.com/ashokawics" class="fa fa-facebook"></a>
