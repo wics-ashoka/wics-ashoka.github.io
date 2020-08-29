@@ -15,14 +15,15 @@ Hello! This post contains instructional pointers for people who wish to particip
 **General Rules**
 
 1. *This hunt is only open to Ashoka University students. All the members in your team should be currently enrolled in Ashoka University as a student. If you are an alumnus, you are welcome to participate, but you will not be rewarded for finishing the hunt.*
-1. **We realise that a lot of you are confused about the registration process. We are sorry for the confusion - we have now made changes to our hunt logistics. You should be able to participate even without registering. On the hunt portal, please make sure you (and your teammate) use only one email IDs for the hunt.**
+1. **We realise that a lot of you are confused about the registration process. We are sorry for the confusion - we have now made changes to our hunt logistics. You should be able to participate even without registering. On the hunt portal, please make sure you (and your teammate) use only one Ashoka email ID for the hunt.**
 1. There will be 16 levels in all: 15 total levels + Level-0 (where you have to enter the answer to a clue mentioned in the first email you received to proceed to Level-1). 
 1. The answers can only have lowercase alphanumeric characters (no space or special characters). If the answer is "Tanvi's toy tiger", the only acceptable answer is "tanvistoytiger". 
 1. You have infinite number of tries for each questions. However, please note that only the right answer will take you to the next level.
 1. We have tried to include as many possible combinations of answers as possible, but if you do not get the answer right, keep trying. 
 1. Please fill in your queries/doubts/help regarding the portal/questions on the portal in [this form](https://forms.gle/uuGD3B8CqJeEadNy8). This form will be active only between Saturday, 12 PM and Sunday 11:59 PM. This has been created so that we can respond to your queries in a more efficient manner, since emails can get lost sometimes. We will try to respond to you as soon as possible. Having said that, please note that we will not entertain questions about questions from the cryptic hunt that are emailed to wics@ashoka.edu.in.
-1. We will be available for answering queries only between 10 AM and 11:59 PM on both the days.
-1. If you are stuck, be on the lookout for clues on our [social media](https://wics-ashoka.github.io/about). ;)
+1. You can use form to reach out to us if you are stuck with anything. Also follow us and be on the lookout for further hints on our [social media](https://wics-ashoka.github.io/about). ;)
+1. The help form mentioned above is also linked under the 'Rules' tab of the cryptic hunt portal. 
+1. We will be available for answering queries only between 10 AM and 11:59 PM on both the days. Please be kind and respectful to us in the language you use, we will be trying our best to help you out with all your queries.
 1. Please note:
 	1. Each team must have a team name or username. You will be prompted to enter this username when you login for the first time.
 	1. Each team can use only one Ashoka email ID. If your team has two members, you cannot login with both your email IDs. Doing so can result in disqualification from the hunt. 
