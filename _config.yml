@@ -38,6 +38,14 @@ authors:
     web: 
     twitter: https://github.com/prashanthi-r/
     description: "Fresh CS Grad from AshokaU."
+  niyati:
+    name: Niyati Sanjay Bafna
+    display_name: Niyati Sanjay Bafna
+    avatar: 'assets/images/niyati.jpeg'
+    email: niyatisanjay.bafna@alumni.ashoka.edu.in
+    web: 
+    twitter: https://github.com/prashanthi-r/
+    description: "Fresh CS Grad from AshokaU."
 
 # Plugins
 plugins:
