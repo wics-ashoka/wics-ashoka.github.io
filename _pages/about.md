@@ -5,7 +5,6 @@ comments: false
 
 filename: "pages/about.md"
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <style type="text/css">
@@ -28,7 +27,6 @@ filename: "pages/about.md"
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/7.png" alt="aboutwics" /><br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/8.png" alt="aboutwics" /><br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/9.png" alt="aboutwics" /><br>
-<h5> Inductions opening soon! </h5>
 
 <h4>Questions or bug reports?</h4>
 
