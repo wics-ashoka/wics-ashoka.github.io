@@ -22,7 +22,7 @@ filename: "pages/upcomingevents.md"
 }
 
 </style>
-<h3>Upcoming Events and Timeline</h3>
+<h3>Events, Projects and Timeline</h3>
 
 <table>
 	<tr>
