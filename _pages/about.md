@@ -28,7 +28,7 @@ filename: "pages/about.md"
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/7.png" alt="aboutwics" /><br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/8.png" alt="aboutwics" /><br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/9.png" alt="aboutwics" /><br>
-<h4> Inductions opening soon! </h4>
+<h5> Inductions opening soon! </h5>
 
 <h4>Questions or bug reports?</h4>
 
