@@ -23,15 +23,15 @@ filename: "pages/about.md"
 Founded by an Ashoka University alumnus, Simran Bhuria, and launched on campus by Mrs. Rashmi Mohan, an ACM eminent speaker on 29th September 2016, Women in Computing Society is a small bunch of passionate students working towards making the CS culture at Ashoka a safer, healthier, and inclusive one. We also focus on supporting everyone in CS, especially womxn, academically and personally. We constantly work towards building a larger community of womxn in CS that is collaborative and supportive in nature. As an academic society, we organise talks, hackathons, cryptic hunts, workshops, problem-solving centered stalls and events, and reading groups. As a part of our larger vision of an inclusive community, we organise events focused on activism -- blog posts, discussions on gender in academic spaces and sexism, sessions on building confidence and tackling other challenges for womxn in STEM and movie screenings! 
 <br>
 
-![](/assets/images/aboutwics/1.png)
-![](/assets/images/aboutwics/2.png)
-![](/assets/images/aboutwics/3.png)
-![](/assets/images/aboutwics/4.png)
-![](/assets/images/aboutwics/5.png)
-![](/assets/images/aboutwics/6.png)
-![](/assets/images/aboutwics/7.png)
-![](/assets/images/aboutwics/8.png)
-![](/assets/images/aboutwics/9.png)
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/1.png" alt="aboutwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/2.png" alt="historyofwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/3.png" alt="who are we" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/4.png" alt="how do we do this" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/5.png" alt="aboutwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/6.png" alt="aboutwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/7.png" alt="aboutwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/8.png" alt="aboutwics" />
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/9.png" alt="aboutwics" />
 
 <h4>Questions or bug reports?</h4>
 
