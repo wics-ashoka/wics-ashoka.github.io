@@ -12,10 +12,9 @@ filename: "pages/upcomingevents.md"
 		text-align: center;
 	}
 	th {
-  background-color: #cc0000;
+  background-color: #f2f2f2;
   color: white;
 	}
-	tr:nth-child(even) {background-color: #f2f2f2;}
 	tr:hover {background-color: #f5f5f5;}
 	th, td {
   border-bottom: 1px solid #ddd;
@@ -29,15 +28,15 @@ filename: "pages/upcomingevents.md"
 		<th>Event</th>
 		<th>Tentative Dates</th>	
 	</tr>
-	<tr>
+	<tr style="background-color: #cc0000">
     	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
     	<td>29-30th August, 2020</td>
   	</tr>
-    <tr>
+    <tr style="background-color: #cc0000">
       <td>Chill Coffee Chat</td>
       <td>13th September 2020</td>
     </tr>
-        <tr>
+        <tr style="background-color: #cc0000">
       <td>
         [The WiCS Round Table] Post-Quantum Cryptography by Dr. Shweta Agrawal
       </td>
@@ -45,14 +44,14 @@ filename: "pages/upcomingevents.md"
     </tr>
   	<tr>
   		<td>[WiCS x WireByte] Show-N-Tell</td>
-  		<td>21st September, 7-8 PM!</td>
+  		<td>21st September, 7-8 PM</td>
   	</tr>
     <tr>
-      <td>Inductions form opens!</td>
+      <td>Inductions form opens</td>
       <td>21st September</td>
     </tr>
     <tr>
-      <td>First podcast goes out!</td>
+      <td>First podcast goes out</td>
       <td>Late September</td>
     </tr>
     <tr>
