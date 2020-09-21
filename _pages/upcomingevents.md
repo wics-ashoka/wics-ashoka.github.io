@@ -39,7 +39,7 @@ filename: "pages/upcomingevents.md"
     </tr>
         <tr>
       <td>
-        [The WiCS Round Table] Post-Quantum Cryptography: Challenges, Opportunities and Beyond by Dr. Shweta Agrawal, IITM.
+        [The WiCS Round Table] Post-Quantum Cryptography by Dr. Shweta Agrawal
       </td>
       <td>17th September, 2020</td>
     </tr>
