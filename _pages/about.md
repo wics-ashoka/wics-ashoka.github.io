@@ -12,8 +12,13 @@ filename: "pages/about.md"
 		text-align: center;
 	}
 </style>
+<a href="https://www.facebook.com/ashokawics" class="fa fa-facebook"></a>
+            <a href="https://www.instagram.com/wics.ashoka/" class="fa fa-instagram"></a>
+            <a href="https://www.linkedin.com/company/wics-ashoka-university" class="fa fa-linkedin"></a>
+            <br>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/about-1.png" alt="Ashoka University campus" />Photo by Team Ricochet, Ashoka University. </p>
+
 <br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/1.png" alt="aboutwics" /><br>
 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/aboutwics/2.png" alt="historyofwics" /><br>
