@@ -22,7 +22,7 @@ filename: "pages/upcomingevents.md"
 }
 
 </style>
-<h3>Events, Projects and Timeline</h3>
+<h3>Events, Projects, and Timeline</h3>
 
 <table>
 	<tr>
@@ -31,22 +31,37 @@ filename: "pages/upcomingevents.md"
 	</tr>
 	<tr>
     	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
-    	<td>29-30th August (Sat-Sun), 2020</td>
+    	<td>29-30th August, 2020</td>
   	</tr>
+    <tr>
+      <td>Chill Coffee Chat</td>
+      <td>13th September 2020</td>
+    </tr>
+        <tr>
+      <td>
+        [The WiCS Round Table] Post-Quantum Cryptography: Challenges, Opportunities and Beyond by Dr. Shweta Agrawal, IITM.
+      </td>
+      <td>17th September, 2020</td>
+    </tr>
   	<tr>
-  		<td>WiCS x WireByte (something exciting!)</td>
-  		<td>Extended O-Week (31st August -3rd Oct, 2020)</td>
+  		<td>[WiCS x WireByte] Show-N-Tell</td>
+  		<td>21st September, 7-8 PM!</td>
   	</tr>
-  	<tr>
-  		<td>Open Meeting with Ashokans</td>
-  		<td>Second week of September, 2020</td>
-  	</tr>
-  	<tr>
-  		<td>
-  			Academic Talk by an eminent academic (to be announced soon)
-  		</td>
-  		<td>Third week of September, 2020</td>
-  	</tr>
+    <tr>
+      <td>Inductions form opens!</td>
+      <td>21st September</td>
+    </tr>
+    <tr>
+      <td>First podcast goes out!</td>
+      <td>Late September</td>
+    </tr>
+    <tr>
+      <td>Introduction to Bash: A talk by Cocoa Kaushal</td>
+      <td>1st October, 2020</td>
+    </tr><tr>
+      <td>Open house for CS+@Ashoka students</td>
+      <td>Early October</td>
+    </tr>
 </table>
 <br>
 More information to follow. Stay tuned!
