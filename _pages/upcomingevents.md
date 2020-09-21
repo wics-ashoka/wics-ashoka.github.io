@@ -28,15 +28,15 @@ filename: "pages/upcomingevents.md"
 		<th>Event</th>
 		<th>Tentative Dates</th>	
 	</tr>
-	<tr style="background-color: #cc0000">
+	<tr>
     	<td>Annual Cryptic Hunt: Waterboarded Witless</td>
     	<td>29-30th August, 2020</td>
   	</tr>
-    <tr style="background-color: #cc0000">
+    <tr>
       <td>Chill Coffee Chat</td>
       <td>13th September 2020</td>
     </tr>
-        <tr style="background-color: #cc0000">
+        <tr>
       <td>
         [The WiCS Round Table] Post-Quantum Cryptography by Dr. Shweta Agrawal
       </td>
