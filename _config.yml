@@ -37,7 +37,7 @@ authors:
     email: prashanthi.r_asp21@ashoka.edu.in
     web: 
     twitter: https://github.com/prashanthi-r/
-    description: "Fresh CS Grad from AshokaU."
+    description: "ASP student at AshokaU."
   niyati:
     name: Niyati Bafna
     display_name: Niyati Bafna
@@ -46,7 +46,13 @@ authors:
     web: 
     twitter: https://github.com/niyatibafna
     description: "English-CS grad from Ashoka, now specialising in linguistics/CL"
-
+  aasthashah:
+    name: Aastha Shah
+    display_name: Aastha Shah
+    avatar: 'assets/images/IMG-0874 - Aastha Shah.jpg'
+    email: aastha.shah_asp21@ashoka.edu.in
+    twitter: 
+    description: "ASP student at AshokaU."
 # Plugins
 plugins:
   - jekyll-paginate
