@@ -5,6 +5,9 @@ comments: false
 
 filename: "pages/upcomingevents.md"
 ---
+<div align="text-center">
+  {% include contact.html %}
+</div>
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <style type="text/css">
