@@ -16,8 +16,11 @@ filename: "pages/upcomingevents.md"
   color: white;
 	}
 	tr:hover {background-color: #f5f5f5;}
-	th, td {
-  border-bottom: 1px solid #000000;
+	th{
+    border-bottom: 1px solid #000000;
+  }
+  td {
+    border-bottom: 1px solid #ddd;
 }
 
 </style>
