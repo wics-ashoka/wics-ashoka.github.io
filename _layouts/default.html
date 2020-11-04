@@ -33,7 +33,9 @@ ga('create', '{{site.google_analytics}}', 'auto');
 ga('send', 'pageview');
 </script>
 {% endif %}
-
+<div align="text-center">
+    {% include contact.html %}
+</div>
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
@@ -132,12 +134,7 @@ ga('send', 'pageview');
     </p>
 </div>
 
-<div align="text-center">
-    <a href="https://www.facebook.com/ashokawics" class="facebook"><i class="fa fa-facebook"></i></a>
-    <a href="https://instagram.com/wicsashoka" class="instagram"><i class="fa fa-instagram"></i></a>
-    <a href="https://www.linkedin.com/company/67909587" class="linkedin"><i class="fa fa-linkedin"></i></a>
-    <a href="https://www.youtube.com/channel/UCX9PpFbncSYatyTHl9f-N3w/" class="youtube"><i class="fa fa-youtube"></i></a>
-</div>
+
 <!-- Content
 ================================================== -->
 <div class="main-content">

@@ -17,11 +17,11 @@ filename: "pages/upcomingevents.md"
 	}
 	tr:hover {background-color: #f5f5f5;}
 	th, td {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #000000;
 }
 
 </style>
-<h3>Events, Projects, and Timeline</h3>
+<h3>Timeline</h3>
 
 <table>
 	<tr>
@@ -55,12 +55,22 @@ filename: "pages/upcomingevents.md"
       <td>Late September</td>
     </tr>
     <tr>
-      <td>Introduction to Bash: A talk by Cocoa Kaushal</td>
+      <td>Introduction to Bash: A talk by Cocoa</td>
       <td>1st October, 2020</td>
-    </tr><tr>
+    </tr>
+    <tr>
       <td>Open house for CS+@Ashoka students</td>
       <td>Early October</td>
     </tr>
+    <tr>
+      <td>"Build your own chatbot" - a workshop</td>
+      <td>Mid-November</td>
+    </tr>
+    <tr>
+      <td>Fireside chat on self-mutating code</td>
+      <td>Mid-November</td>
+    </tr>
+
 </table>
 <br>
 More information to follow. Stay tuned!
