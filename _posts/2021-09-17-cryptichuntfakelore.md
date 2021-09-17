@@ -23,7 +23,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 
 ![Flowchart](../assets/images/Flowchart.jpeg)
 
-1. There will be 16 levels in all: 15 total levels + Level-0. 
+1. There will be 16 levels in all: 15 total levels + Level-0 (hint: folklore). 
 1. The answers can only have lowercase alphanumeric characters (no space or special characters). If the answer is "Shweta's salty salad", the only acceptable answer is "shwetassaltysalad". 
 1. You have infinite number of tries for each questions. However, please note that only the single right answer will take you to the next level. 
 1. For any queries that you have, please use only our email and instagram dms to reach out to us. This way, we can respond to your queries in a more efficient manner. We will try to respond to you as soon as possible. Having said that, please note that we will not entertain any questions if you reach out to us through any other medium including whatsapp.
