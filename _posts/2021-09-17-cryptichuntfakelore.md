@@ -25,9 +25,8 @@ Hello! This post contains instructional pointers for people who wish to particip
 1. The answers can only have lowercase alphanumeric characters (no space or special characters). If the answer is "Shweta's salty salad", the only acceptable answer is "shwetassaltysalad". 
 1. You have infinite number of tries for each questions. However, please note that only the single right answer will take you to the next level. 
 1. For any queries that you have, please use only our email and instagram dms to reach out to us. This way, we can respond to your queries in a more efficient manner. We will try to respond to you as soon as possible. Having said that, please note that we will not entertain any questions if you reach out to us through any other medium including whatsapp.
-1. You can use form to reach out to us if you are stuck with anything. Also follow us and be on the lookout for further hints on our [social media](https://wics-ashoka.github.io/about). ;)
+1. Also follow us and be on the lookout for further hints on our [wics.ashoka](https://www.instagram.com/wics.ashoka/) as well as the Fakelore whatsapp group (the link to which has been emailed to you) ;)
 1. We will be available for answering queries only between 6 AM - 12 PM & 2 PM - 11: 59 PM on all days. Please be kind and respectful to us in the language you use, we will be trying our best to help you out with all your queries.
-1. We will be posting hints to the questions on the [wics.ashoka](https://www.instagram.com/wics.ashoka/) instagram page as well as the Fakelore whatsapp group (the link to which has been emailed to you). 
 1. Please note:
 	1. Each team must have a team name or username. You will be prompted to enter this username when you login for the first time.
 	1. Each team can use only one Ashoka email ID. If your team has two members, you cannot login with both your email IDs. Doing so can result in disqualification from the hunt. 
