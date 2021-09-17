@@ -19,7 +19,7 @@ Hello! This post contains instructional pointers for people who wish to particip
 1. **On the hunt portal, please make sure you (and your teammate) use only one Ashoka email ID for the hunt.**
 1. **You can participate individually or in a team of two. Yes, you can participate individually. It doesn't matter what you filled in the registration form. If you want to participate with another person as a team, please go ahead. There is no need to inform us if you decide to change your team.** Hope the flowchart below clarifies things:
 
-![Flowchart](asset/images/Flowchart.jpeg)
+![Flowchart](assets/images/Flowchart.jpeg)
 
 1. There will be 16 levels in all: 15 total levels + Level-0 (where you have to enter the answer to a clue which will be mentioned in the email you receive to proceed to Level-1). 
 1. The answers can only have lowercase alphanumeric characters (no space or special characters). If the answer is "Shweta's salty salad", the only acceptable answer is "shwetassaltysalad". 
