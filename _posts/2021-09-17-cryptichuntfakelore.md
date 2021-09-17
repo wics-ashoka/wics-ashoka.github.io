@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Instructions for WiCS' Cryptic Hunt 2021: Fakelore"
-author: khushi678
+author: khushi
 categories: [ Events ]
 tags: [ fakelore, cryptichunt, wicsevents, womenincomputing, womeninstem, ashokauniversity, wicsashoka ]
 image: assets/images/ELON BELIEVES. WHY DON'T YOU.png
 description: "Instructions for Fakelore: WiCS' Cryptic Hunt 2021"
 featured: true
 
-filename: "posts/khushi678-17sep-cryptichuntfakelore.md"
+filename: "posts/khushi-17sep-cryptichuntfakelore.md"
 ---
 Hello! This post contains instructional pointers for people who wish to participate in WiCS' Cryptic Hunt 2021: Fakelore.
 
