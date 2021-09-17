@@ -8,7 +8,7 @@ image: assets/images/ELON BELIEVES. WHY DON'T YOU.png
 description: "Instructions for Fakelore: WiCS' Cryptic Hunt 2021"
 featured: true
 
-filename: "posts/khushi-17sep-cryptichuntfakelore.md"
+filename: "posts/2021-09-17-cryptichuntfakelore.md"
 ---
 Hello! This post contains instructional pointers for people who wish to participate in WiCS' Cryptic Hunt 2021: Fakelore.
 
