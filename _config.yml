@@ -53,6 +53,14 @@ authors:
     email: aastha.shah_asp21@ashoka.edu.in
     twitter: 
     description: "ASP student at AshokaU."
+    
+    khushi:
+    name: Khushi Mehta
+    display_name: Khushi Mehta
+    avatar: ''
+    email: khushi.mehta_ug22@ashoka.edu.in
+    twitter: 
+    description: "CS student at AshokaU."
 # Plugins
 plugins:
   - jekyll-paginate
