@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Success in Segregation: Black women who made history"
-author: Nandini Bhattacharya
-categories: [ Adovacy ]
+author: nandinibhattacharya
+categories: [ Advocacy ]
 tags: [women in CS, black women in CS, NASA, human computer, black history month,Katherine Johnson,Annie Easley,Evelyn Boyd Granville,Dorothy Vaughan,Melba Roy Mouton,Kimberly Bryant]
 image: https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAfrican-American_women_in_computer_science&psig=AOvVaw3U4H-hDEAVNrFgHiUSXWj8&ust=1646332212743000&source=images&cd=vfe&ved=2ahUKEwjw2IbHh6j2AhUIXWwGHQiODRkQjRx6BAgAEAk
 description: "Success in Segregation: Black women who made history"
