@@ -60,6 +60,13 @@ authors:
     email: khushi.mehta_ug22@ashoka.edu.in
     twitter: 
     description: "CS student at AshokaU."
+  veda:
+    name: Veda D
+    display_name: Veda D    
+    avatar: 'assets/images/veda.jpg'
+    email: veda.d_ug22@ashoka.edu.in
+    twitter: https://github.com/veda-duddu
+    description: "CS student @ AshokaU"
 # Plugins
 plugins:
   - jekyll-paginate
