@@ -37,7 +37,7 @@ authors:
     email: prashanthi.r_asp21@ashoka.edu.in
     web: 
     twitter: https://github.com/prashanthi-r/
-    description: "ASP student at AshokaU."
+    description: "ASP student @ AshokaU."
   niyati:
     name: Niyati Bafna
     display_name: Niyati Bafna
@@ -52,14 +52,14 @@ authors:
     avatar: 'assets/images/IMG-0874 - Aastha Shah.jpg'
     email: aastha.shah_asp21@ashoka.edu.in
     twitter: 
-    description: "ASP student at AshokaU."  
+    description: "ASP student @ AshokaU."  
   khushi:
     name: Khushi Mehta
     display_name: Khushi Mehta
     avatar: 'assets/images/khushi.jpeg'
     email: khushi.mehta_ug22@ashoka.edu.in
     twitter: 
-    description: "CS student at AshokaU."
+    description: "CS student @ AshokaU."
   veda:
     name: Veda D
     display_name: Veda D    
@@ -67,6 +67,14 @@ authors:
     email: veda.d_ug22@ashoka.edu.in
     twitter: https://github.com/veda-duddu
     description: "CS student @ AshokaU"
+  nandinibhattacharya:
+    name: Nandini Bhattacharya
+    display_name: Nandini Bhattacharya   
+    avatar: 'assets/images/NandiniB.jpg'
+    email: nandini.bhattarcharya_ug24@ashoka.edu.in
+    twitter: 
+    description: " First-year CS student @ AshokaU"
+
 # Plugins
 plugins:
   - jekyll-paginate
