@@ -8,7 +8,7 @@ image: assets/images/sis.jpg
 description: "Success in Segregation: Black women who made history"
 featured: true
 
-filename: "posts/2022-28-02-successinsegregation.md"
+filename: "posts/2022-02-28-successinsegregation.md"
 ---
 
 If a year ago, you’d have asked me to name all the female computer scientists I knew, I wouldn’t
