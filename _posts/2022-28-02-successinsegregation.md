@@ -30,6 +30,8 @@ Science, Ashoka University would like to celebrate and laud the achievements of 
 in CS. These women were not only pioneers in the field but also broke the glass ceiling and gave
 future generations of women the opportunity to dream and contribute to CS.
 
+![KatherineJohnson](../assets/images/sis.jpg)
+
 1) Katherine Johnson
 
 Made famous by the critically acclaimed movie, Hidden Figures, Johnson was called a “human
