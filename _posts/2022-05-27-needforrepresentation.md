@@ -4,7 +4,7 @@ title:  "The Need For Representation In Artificial Intelligence"
 author: nandinibhattacharya
 categories: [ Advocacy ]
 tags: [women in CS, black women in CS, NASA, human computer, black history month,Katherine Johnson,Annie Easley,Evelyn Boyd Granville,Dorothy Vaughan,Melba Roy Mouton,Kimberly Bryant]
-image: assets/images/needforrep.jpg
+image: assets/images/needforrep.jpeg
 description: "The Need For Representation In Artificial Intelligence"
 editor: vrindakhandelwal
 featured: true
@@ -24,7 +24,7 @@ This bias can have fatal consequences : A 2011 study showed that female seat-bel
 
 The following graph displays the percentage distribution of employees working in technical professions on the basis of their race and ethnicity in the United States of America : 
 
-![needforrep](../assets/images/needforrep.jpg)
+![needforrep](../assets/images/needforrep.jpeg)
 
 A clear disparity can be observed. This lack of diversity in the workforce is a cause for concern and needs to be addressed. Instead of shifting the onus of responsibility to social and historical factors, we need to examine the shortcomings and gaps within the technological fields, especially that of Artificial Intelligence (AI). 
 
