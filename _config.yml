@@ -74,6 +74,13 @@ authors:
     email: nandini.bhattarcharya_ug24@ashoka.edu.in
     twitter: 
     description: " First-year CS student @ AshokaU"
+vrindakhandelwal:
+    name: Vrinda Khandelwal
+    display_name: Vrinda Khandelwal 
+    avatar: 'assets/images/nandinib.jpg'
+    email: vrinda.khandelwal_asp22@ashoka.edu.in
+    twitter: 
+    description: " ASP CS student @ AshokaU"
 
 # Plugins
 plugins:
