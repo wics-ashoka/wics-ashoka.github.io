@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "The Need For Representation In Artificial Intelligence"
-author: nandinibhattacharya
+author: vrindakhandelwal
 categories: [ Advocacy ]
 tags: [women in CS, black women in CS, NASA, human computer, black history month,Katherine Johnson,Annie Easley,Evelyn Boyd Granville,Dorothy Vaughan,Melba Roy Mouton,Kimberly Bryant]
 image: assets/images/needforrep.jpeg
 description: "The Need For Representation In Artificial Intelligence"
-editor: vrindakhandelwal
+editor: nandinibhattacharya
 featured: true
 
 filename: "posts/2022-05-27-needforrepresentation.md"
