@@ -9,7 +9,7 @@ description: "My Journey to Maths, and why I Decided to Stay"
 editor: nandinibhattacharya
 featured: true
 
-filename: "posts/2022-05-27-myjourneytomathematicsandwhyIstayed.md"
+filename: "posts/2022-03-27-myjourneytomathematicsandwhyIstayed.md"
 ---
 
 For as long back as I can remember, I've always hated maths. Numbers, especially, were never really my thing. In fact, they still aren't (I still need my fingers to perform simple addition). My grandmother was a maths teacher, and it was largely through her efforts that I managed to do well in school. I remember her telling me that maths could be pretty fun if I would just try to change my perspective. She even told me, to my utter disbelief, about many of her former students who were “addicted” to maths (my simple mind could not yet conceive of such mental disorders). However, it was not my grandmother who sparked my interest in maths, and it was certainly not my school (which almost succeeded in completely killing it). Rather, I was introduced to maths through physics. 
