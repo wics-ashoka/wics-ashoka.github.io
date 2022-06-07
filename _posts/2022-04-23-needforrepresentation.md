@@ -9,7 +9,7 @@ description: "The Need For Representation In Artificial Intelligence"
 editor: nandinibhattacharya
 featured: true
 
-filename: "posts/2022-05-27-needforrepresentation.md"
+filename: "posts/2022-04-23-needforrepresentation.md"
 ---
 
 Technological and scientific fields are responsible for orchestrating significant transformations and advancements in our lives. But there exist many contentions regarding the lack of an inclusive culture in this sphere. 
