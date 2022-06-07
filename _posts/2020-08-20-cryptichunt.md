@@ -6,7 +6,7 @@ categories: [ Events ]
 tags: [ waterboardedwitless, cryptichunt, wicsevents, womenincomputing, womeninstem, ashokauniversity, wicsashoka ]
 image: assets/images/cryptichunt-final1.jpg
 description: "Instructions for Cryptic Hunt 2020"
-featured: true
+featured: false
 
 filename: "posts/prashanthi-27jun-cryptichunt.md"
 ---
