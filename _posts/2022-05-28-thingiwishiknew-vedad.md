@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things I wish I knew in my Second Semester - Veda D"
-author: vedad
+author: veda
 categories: [ Blog ]
 tags: [women in CS, women in STEM, first year struggles, confusion, lack of confidence]
 image: 
