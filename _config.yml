@@ -81,7 +81,13 @@ authors:
     email: vrinda.khandelwal_asp22@ashoka.edu.in
     twitter: 
     description: " ASP CS student @ AshokaU"
-
+  piyushnaresh:
+    name: Piyush Naresh
+    display_name: Piyush Naresh 
+    avatar: 
+    email: piyush.naresh_ug23@ashoka.edu.in
+    twitter: 
+    description: " Second-year Math student @ AshokaU"
 # Plugins
 plugins:
   - jekyll-paginate
