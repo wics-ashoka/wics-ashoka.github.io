@@ -77,7 +77,7 @@ authors:
   vrindakhandelwal:
     name: Vrinda Khandelwal
     display_name: Vrinda Khandelwal 
-    avatar: 'assets/images/nandinib.jpg'
+    avatar: 
     email: vrinda.khandelwal_asp22@ashoka.edu.in
     twitter: 
     description: " ASP CS student @ AshokaU"
@@ -86,7 +86,6 @@ authors:
     display_name: Piyush Naresh 
     avatar: 
     email: piyush.naresh_ug23@ashoka.edu.in
-    twitter: 
     description: " Second-year Math student @ AshokaU"
 # Plugins
 plugins:
