@@ -6,7 +6,7 @@ categories: [ Events ]
 tags: [ waterboardedwitless, cryptichunt, wicsevents, womenincomputing, womeninstem, ashokauniversity, wicsashoka ]
 image: assets/images/cryptichunt-final1.jpg
 description: "Solutions for Cryptic Hunt 2020"
-featured: true
+featured: false
 ---
 Hello! This post contains the solutions to WiCS' Cryptic Hunt 2020: Waterboarded Witless.
 
