@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Journey to Maths, and why I Decided to Stay."
-author: vrindakhandelwal
+author: piyushnaresh
 categories: [ Blog ]
 tags: [math, passion, experience, grades, anxeity]
 image: 
