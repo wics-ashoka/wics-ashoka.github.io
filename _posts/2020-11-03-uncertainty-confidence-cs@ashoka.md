@@ -6,7 +6,7 @@ categories: [ Events ]
 tags: [ uncertainty, confidence, computerscience, csstudents, ashokauniversity, womenincomputing, womeninstem, ashokauniversity, wicsashoka ]
 image: assets/images/confidence.jpg
 description: "Uncertainty & confidence as a CS student at Ashoka"
-featured: true
+featured: false
 
 filename: "posts/aastha-3nov-uncertainty.md"
 ---
