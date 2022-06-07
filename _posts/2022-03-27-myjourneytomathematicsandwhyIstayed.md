@@ -4,7 +4,7 @@ title:  "My Journey to Maths, and why I Decided to Stay."
 author: piyushnaresh
 categories: [ Blog ]
 tags: [math, passion, experience, grades, anxeity]
-image: assets/images/ihatemath.jpg
+image: assets/images/ihatemath.jpeg
 description: "My Journey to Maths, and why I Decided to Stay"
 editor: nandinibhattacharya
 featured: true
