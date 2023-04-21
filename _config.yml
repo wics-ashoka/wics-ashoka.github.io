@@ -87,6 +87,12 @@ authors:
     avatar: 
     email: piyush.naresh_ug23@ashoka.edu.in
     description: " Second-year Math student @ AshokaU"
+  mythilli:
+  name: Mythilli Kamath
+  display_name: Mythilli Kamath 
+  avatar: 
+  email: mythilli.kamath_ug24@ashoka.edu.in
+  description: " Second-year Eco-fin student @ AshokaU"
 # Plugins
 plugins:
   - jekyll-paginate
